@@ -9,6 +9,8 @@
 
 - [Spring에서 redis를 이용하여 "직접" 객체 캐싱하기](https://velog.io/@kshired/Spring-Redis%EC%97%90%EC%84%9C-%EA%B0%9D%EC%B2%B4-%EC%BA%90%EC%8B%B1%ED%95%98%EA%B8%B0) : [code](./spring/redis-caching)
 
+- [AOP를 이용하여 회원 검증 반복 로직 줄이기](https://velog.io/@kshired/Spring-AOP%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-%EB%B0%98%EB%B3%B5%EC%9E%91%EC%97%85-%EC%A4%84%EC%9D%B4%EA%B8%B0) : [code](./spring/auth-aop)
+
 ## Node.js
 
 - [setInterval 문제 해결하기](https://velog.io/@kshired/%EB%84%88%EB%84%A4%EB%8A%94-setInterval-%EA%B0%99%EC%9D%80%EA%B1%B0-%ED%95%98%EC%A7%80%EB%A7%88%EB%9D%BC) : [code](./node/set-interval)
